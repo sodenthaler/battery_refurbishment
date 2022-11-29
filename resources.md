@@ -3,6 +3,8 @@
 
 ### Websites for companies which offer the service
 * [Akku-Mainz](https://akku-mainz.de/)
+  * They provide Zellenaustausch which is the process of replacing broken cells (probably modules) with functioning ones
+  * Business model focused on E-Bikes but could be analogue in E-Scooters
 * [Rejoule Energy](https://rejouleenergy.com)
   * Start Up in California
   * Measures health of battery
